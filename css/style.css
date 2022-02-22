@@ -1,0 +1,61 @@
+*{
+    margin:0;
+    padding:0;
+}
+h2{
+    text-align:center;
+    padding: 30px;
+    color: brown;
+    font-size: 30px;
+
+   
+}
+.logo img{
+    width:20%;
+    border: 3px solid black;
+    border-radius: 50px;
+  
+}
+
+.navbar{
+    display:flex;
+}
+
+.nav-list{
+ 
+    width:50%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+}
+.nav-list li{
+    list-style: none;
+    padding: 20px 20px; 
+}
+.nav-list li a{
+    text-decoration: none;
+    color: aliceblue;
+
+}
+.rightnav{
+   
+ 
+    text-align: left;
+}
+#search{
+    padding:20px;
+    color:black;
+    background-color:blanchedalmond;
+    font-size: 15px;
+    border-radius: 10px;
+
+
+}
+.btn{
+    padding: 20px;
+    font-size: 15px;
+    border-radius: 10px;
+
+}
+
+    
